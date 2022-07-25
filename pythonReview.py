@@ -20,7 +20,7 @@ for i in range (495):
 print(dict2)
 
 
-dict2=dislikes(dicts)
+
 
 
 
